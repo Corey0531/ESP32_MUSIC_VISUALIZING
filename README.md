@@ -17,4 +17,4 @@ The system responds to sound input captured by the microphone and visualizes it 
 
 ## Additional Information
 For more details, please refer to the documentation:  
-🔗 [Project Explanation](https://reurl.cc/2KoAM6)
+🔗 [Project Explanation](https://youtu.be/dMTy6C4UiQ4?si=J4vihiMubd1GYfbB)
